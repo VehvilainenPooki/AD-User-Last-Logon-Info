@@ -2,6 +2,7 @@
 Terminaali työkalu, jolla voi tarkistaa organisaation kaikilta domain controllereilta käyttäjän viimeisimmän kirjautumisajan.
 
 ## Käyttönotto
+Työkalu vaatii, että AD on käytössä organisaatiossa.
 1. Avaa tiedosto Powrshell ISE tms.
 2. Laita organisaation domain kohtaan:
 ``` Powershell
