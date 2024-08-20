@@ -1,5 +1,9 @@
 # AD-User-Last-Logon-Info
 Terminaali työkalu, jolla voi tarkistaa organisaation kaikilta domain controllereilta käyttäjän viimeisimmän kirjautumisajan.
+> [!NOTE]  
+> Projektiin on lisätty muutama muutos ilman projektin suorittamista AD ympäristössä, joten projektissa saattaa olla jokin tunnistamaton ongelma.
+
+
 
 ## Käyttönotto
 Työkalu vaatii, että AD on käytössä organisaatiossa.
